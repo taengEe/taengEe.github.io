@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.100f9e2c.css",
-    "main.js": "/static/js/main.8465548e.js",
+    "main.css": "/static/css/main.c320ea7d.css",
+    "main.js": "/static/js/main.e86523fb.js",
     "static/js/787.53c044b7.chunk.js": "/static/js/787.53c044b7.chunk.js",
     "static/media/main_bg.png": "/static/media/main_bg.24f16fff4aaa260c5bf9.png",
     "static/media/umu-soap-bg.png": "/static/media/umu-soap-bg.eff5ab8fde75ba267aef.png",
     "index.html": "/index.html",
-    "main.100f9e2c.css.map": "/static/css/main.100f9e2c.css.map",
-    "main.8465548e.js.map": "/static/js/main.8465548e.js.map",
+    "main.c320ea7d.css.map": "/static/css/main.c320ea7d.css.map",
+    "main.e86523fb.js.map": "/static/js/main.e86523fb.js.map",
     "787.53c044b7.chunk.js.map": "/static/js/787.53c044b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.100f9e2c.css",
-    "static/js/main.8465548e.js"
+    "static/css/main.c320ea7d.css",
+    "static/js/main.e86523fb.js"
   ]
 }
